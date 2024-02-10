@@ -1,4 +1,4 @@
-
+//must be apply before install new project //npm install npm -g
 
 // ➋ JSX
 
@@ -94,6 +94,7 @@
 // It will make use of the virtual DOM rather than real DOM (Data Object Model) as RealDOM manipulations are expensive.
 // It follows unidirectional data binding or data flow.
 // It uses reusable or composable UI components for developing the view.
+
 
 
 
