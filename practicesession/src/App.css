@@ -1,6 +1,11 @@
 .form {
-  margin-top: 300px;
-  display: flex;
+
+  width: 400px;
+  border: 2px solid black;
+  margin: 200px;
+  padding: 20px;
+  display: flexbox;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
+
 }
