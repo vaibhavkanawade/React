@@ -98,3 +98,46 @@
 
 
 
+// official topic
+
+
+
+// 1-REact topics
+ 
+// 1-React installation, setting up project. -done
+// 2-react sample application d—one
+// 3-What are single page apps
+// 4-React state management -useState hook
+// 5-React props
+ 
+// 7-React Lifecycle -function based components
+// 8-React Lifecycle -class based components
+// // Import and Export ——>In react  —done
+// 9-Useeffect hook. —done
+// 10 -Apis and react —done
+// 6-Virtual Dom & React
+// 11-React Routing. -done
+// 12- React Crud Application with Auth (Includes forms ,and input handling in react)
+// 13- Higher Order Components in React /Pure components
+// 14-Hooks -Creating custom hooks
+// 15- Using Refs in React
+// 16-Prop Drilling
+// 17-State management tools (Redux ,Recoil)
+// 18 -Redux tool kit Intro
+// 19-Sample Todolist app with redux
+// 20-Intro to thunk and async middleware in react
+// — two next js ——>
+// 21- Crud Application in React & Redux
+// 22- Using Refs in React
+// 23 -Material ui /ant design css libraries
+ 
+// *Deploying React app on live server using Node JS
+ 
+// Advanced topics
+// 1-Context api  —done
+// 2-Use callback and memoization in react
+// 4-recoil
+// 5- suspense
+ 
+// 3-How to optimise your react application
+// 4- useReducer hooks. -done
